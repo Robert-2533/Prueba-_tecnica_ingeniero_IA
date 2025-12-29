@@ -1,3 +1,1 @@
-# Entrevista técnica
 
-Estoy entregando esta arquitectura....
